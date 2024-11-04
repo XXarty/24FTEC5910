@@ -1313,7 +1313,3 @@ date_time,total_return (%),NAV,Drawdown(%)
 04/08/2024,3.886821391,26.51865353,0
 05/08/2024,2.65663226,27.22315663,0
 06/08/2024,1.178336843,27.54393712,0
-,,,
-"** Notes : From 14/3/2024 to 6/8/2024, only realized P&L is
- calculated ; unrealized P&L is not included
-(see page 7 of the deck).",,,
